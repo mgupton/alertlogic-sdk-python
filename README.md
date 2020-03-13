@@ -47,7 +47,7 @@ Launch python interpreter and then type:
 ### Getting Started
 > Prerequisites:
 >
-1. *Python v3.7* or older
+1. *Python v3.7* or newer
 2. *virtualenv* or *virtualenvwrapper* (We recommend ***virtualenvwrapper***  <https://virtualenvwrapper.readthedocs.io/en/latest/> )
 3. *pandoc* for generating documentation. See <https://pypi.org/project/pypandoc/>
 4. To produce RESTful APIs documentation install *redoc-cli* and *npx*:
